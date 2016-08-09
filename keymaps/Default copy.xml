@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+</keymap>
