@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="ep" value="echo '&lt;pre&gt;';print_r($variavel$);die;$end$" toReformat="false" toShortenFQNames="true">
+    <variable name="variavel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
