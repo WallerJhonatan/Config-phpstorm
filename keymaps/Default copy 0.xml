@@ -1,9 +1,11 @@
 <keymap version="1" name="Default copy 0" parent="Default for XWin">
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl f11" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="FileStructurePopup" />
   <action id="SwitchApply">
